@@ -1,0 +1,36 @@
+body {
+	background:#999;
+	font-family: arial;
+}
+
+h1, li {
+	color: #333;
+}
+header {
+	background: black;
+	color: white;
+}
+
+p {
+	background: #666;
+	color: white;
+	padding: 10px;
+}
+
+a {
+	color: green;
+}
+
+nav ul li {
+	display: inline-block;
+	color: white;
+	background: #222;
+	list-style-type: none;
+	padding: 5px 15px ;
+}
+
+h2 {
+	color: red;
+	background: #666;
+	Padding: 15px;
+}
